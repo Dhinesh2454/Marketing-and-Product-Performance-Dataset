@@ -1,15 +1,15 @@
 # Marketing-and-Product-Performance-Dataset
 This dataset provides an overview of customer interactions, sales, and satisfaction metrics during promotional flash sales. It captures key information about customer behavior, subscription details, and the effectiveness of sales campaigns
 
-Clicks: The number of times a customer clicked on an advertisement, link, or product offering.
+#Clicks : The number of times a customer clicked on an advertisement, link, or product offering.
 
-Conversions: The number of completed actions or transactions resulting from the clicks, often indicating how many customers made a purchase or followed through with the intended action.
+#Conversions: The number of completed actions or transactions resulting from the clicks, often indicating how many customers made a purchase or followed through with the intended action.
 
-Revenue_Generated: The total amount of revenue generated from the conversion (sales or transactions).
+#Revenue_Generated: The total amount of revenue generated from the conversion (sales or transactions).
 
-ROI (Return on Investment): The ratio of revenue generated to the cost of investment (e.g., advertising or promotion). This is calculated by dividing the revenue by the cost associated with the promotion or campaign.
+#ROI (Return on Investment): The ratio of revenue generated to the cost of investment (e.g., advertising or promotion). This is calculated by dividing the revenue by the cost associated with the promotion or campaign.
 
-Customer_ID: A unique identifier for each customer. This is used to track customer behavior and purchases.
+#Customer_ID: A unique identifier for each customer. This is used to track customer behavior and purchases.
 
 Subscription_Tier: The level or type of subscription the customer is enrolled in. This could represent different service plans or membership levels (e.g., Premium, Standard, Basic).
 
